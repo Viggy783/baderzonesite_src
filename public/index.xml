@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bader Lab</title>
+    <link>https://viggy783.github.io/baderzonesite/</link>
+    <description>Recent content on Bader Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Mar 2022 17:55:23 -0400</lastBuildDate><atom:link href="https://viggy783.github.io/baderzonesite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SBOC 2020</title>
+      <link>https://viggy783.github.io/baderzonesite/teaching/sboc-2020/</link>
+      <pubDate>Fri, 25 Mar 2022 15:21:42 -0400</pubDate>
+      
+      <guid>https://viggy783.github.io/baderzonesite/teaching/sboc-2020/</guid>
+      <description>SBOC-2020 Syllabus Biomedical Engineering 580.248 Systems Biology of the Cell Spring 2020 (2 credits, EN) URL  Main Lecture: See Blackboard Discussion Sections: See Blackboard  Perusall Code  Make yourself an account at https://www.perusall.com/ Enroll with this course code: BADER-RYZDC  Syllabus with dates  sboc-syllabus-2020-03-24  Description Systems Biology of the Cell (580.429 SB3) is a half-semester course required of all BME majors. Progress in biomedicine requires understanding how individual cellular components function together.</description>
+    </item>
+    
+    <item>
+      <title>CMM 2017</title>
+      <link>https://viggy783.github.io/baderzonesite/teaching/cmm-2017/</link>
+      <pubDate>Fri, 25 Mar 2022 12:59:06 -0400</pubDate>
+      
+      <guid>https://viggy783.github.io/baderzonesite/teaching/cmm-2017/</guid>
+      <description>CMM-2017 Syllabus Applied Math and Statistics 550.450 Computational Molecular Medicine Spring 2017 (4 credits, EN)  Description Computational systems biology has emerged as the dominant framework for analyzing high-dimensional “omics” data in order to uncover the relationships among molecules, networks and disease. In particular, many of the core methodologies are based on statistical modeling, including machine learning, stochastic processes and statistical inference. We will cover the key aspects of this methodology, including measuring associations, testing multiple hypotheses, and learning predictors, Markov chains and graphical models.</description>
+    </item>
+    
+  </channel>
+</rss>

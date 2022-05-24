@@ -1,0 +1,10 @@
+baseURL = 'https://viggy783.github.io/baderzonesite/'
+languageCode = 'en-us'
+title = 'Bader Lab'
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+sectionPagesMenu = "main"
+
+[params]
+    body_classes = "georgia bg-near-white"
+    copyright = "2022 Bader Lab"
